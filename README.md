@@ -10,7 +10,7 @@ Outside of tech, I love making art and getting lost in a good book. My main focu
 🔧 **Tools**: Git, Docker, Wireshark, Virtual Machines  
 
 ## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cristina-mendoza-salazar/)  
 [![Discord](https://img.shields.io/badge/Discord-Join_My_Community-7289DA?style=flat-square&logo=discord)](your-discord-link)  
 
 <!--
