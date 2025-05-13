@@ -4,7 +4,7 @@ I am interested in software engineering and IT. I spend most of my time building
 Outside of tech, I love making art and getting lost in a good book. My main focus is front-end web development, but I’m always curious about how things work behind the scenes. 
 
 ## ⚡ Technologies & Tools  
-💻 **Software Engineering**: Java, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML5
+💻 **Software Engineering**: Java, JavaScript, React, Next.js, Node.js, Tailwind CSS, HTML5  
 🖥️ **IT & OS**: Linux, Windows Server, Networking, Cybersecurity  
 📦 **Databases**: MySQL, MongoDB  
 🔧 **Tools**: Git, Docker, Wireshark, Virtual Machines  
